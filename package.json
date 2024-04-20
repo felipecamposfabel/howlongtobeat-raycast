@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "howlongtobeat-search-raycast",
   "title": "HowLongToBeat",
   "description": "Search for information on howlongtobeat.com",
