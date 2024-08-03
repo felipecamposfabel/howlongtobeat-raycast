@@ -14,7 +14,7 @@
     {
       "name": "index",
       "title": "HowLongToBeat",
-      "description": "Template for showing a static list and a detail view",
+      "description": "Search for information on howlongtobeat.com",
       "mode": "view"
     }
   ],
