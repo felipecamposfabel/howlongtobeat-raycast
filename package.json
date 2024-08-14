@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "name": "howlongtobeat-search-raycast",
   "title": "HowLongToBeat",
   "description": "Search for information on howlongtobeat.com",
@@ -21,7 +21,7 @@
   "dependencies": {
     "@raycast/api": "^1.69.3",
     "@types/lodash": "^4.17.0",
-    "howlongtobeat": "felipecamposfabel/howlongtobeat#1.8.7",
+    "howlongtobeat": "felipecamposfabel/howlongtobeat#1.8.8",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
